@@ -38,7 +38,7 @@ P3 - Resposta
 
     ...
 
-### P4. Tens um repositório git criado localmente, onde estás no ramo **master**. Queres associá-lo ao repositório remoto contido no url 'https://github.com/PSI/OMeuRepositorioRemoto'. Queres também alterar o nome do ramo atual para **main**. Deverás enviar os *commits* já feitos localmente para o repositório remoto. Indica os comandos necessários
+### P4. Tens um repositório git criado localmente, onde estás no ramo 'master'. Queres associá-lo ao repositório remoto contido no url 'https://github.com/PSI/OMeuRepositorioRemoto'. Queres também alterar o nome do ramo atual para 'main'. Deverás enviar os *commits* já feitos localmente para o repositório remoto. Indica os comandos necessários
 
 P4 - Resposta
 
