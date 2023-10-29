@@ -13,6 +13,7 @@ Não desformates o documento.
 ### P1. Indica o que é impresso pelo seguinte código. Justifica a tua resposta
 
     int i = 5 / 2;
+    
     Console.WriteLine($"*\t{i}");
 
 P1 - Resposta
@@ -81,7 +82,7 @@ P3 - Resposta
       Console.WriteLine("Múltiplo de 3!");
     }
 
-### P4. Tens um repositório git criado localmente, onde estás no ramo **master**. Queres associá-lo ao repositório remoto contido no url 'https://github.com/PSI/OMeuRepositorioRemoto'. Queres também alterar o nome do ramo atual para **main**. Deverás enviar os *commits* já feitos localmente para o repositório remoto. Indica os comandos necessários
+### P4. Tens um repositório git criado localmente, onde estás no ramo 'master'. Queres associá-lo ao repositório remoto contido no url 'https://github.com/PSI/OMeuRepositorioRemoto'. Queres também alterar o nome do ramo atual para 'main'. Deverás enviar os *commits* já feitos localmente para o repositório remoto. Indica os comandos necessários
 
 P4 - Resposta
 
